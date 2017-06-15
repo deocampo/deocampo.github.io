@@ -3,8 +3,8 @@ This is a very informal, free flowing site of ideas and code that I've used to l
 
 _Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, my projects are organized in the following categories:_
 
-### Barebones ( -barebones)
-Project containing code snippets, normally executable via command line.
+### Barebones Software Development (bsd-*)
+Projects containing code snippets, normally executable via command line.
 
 #### Java
 Projects with a few programs that can be compiled and executed via command line.
@@ -13,13 +13,13 @@ Projects with a few programs that can be compiled and executed via command line.
 Projects with a few programs that are developed and validated to be executable on Python 2.7.10.
 
 #### Tensorflow
-Project with a few models running on TensorFlow version 1.2.
+Projects with a few models running on TensorFlow version 1.2.
 
-### Amazon Web Services ( -aws)
-Project that contains activities related to publishing applications into the Amazone Web Services platform.
+### Amazon Web Services (aws-*)
+Projects that contains activities related to publishing applications into the Amazone Web Services platform.
 
-### Google Cloud Services ( -gcs)
-Project that contains activities related to publishing applications into the Googl Cloud Services platform.
+### Google Cloud Services (gcs-*)
+Projects that contains activities related to publishing applications into the Googl Cloud Services platform.
 
 
 ## Quick Links (for Me)

@@ -1,5 +1,5 @@
 
-This is a very informal, free flowing site of ideas and code that I've used to learn and enjoy software. Below are links to the major sections, but here is a link to the GitHub [dashboard](https://github.com/deocampo). For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
+This is a very informal, free flowing site of ideas and code that I've used to learn and enjoy software. Below are links to the major sections. For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
 
 Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, mY projects are organized in the following categories:
 

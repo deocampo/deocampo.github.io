@@ -1,18 +1,19 @@
 
 This is a very informal, free flowing site of ideas and code that I've used to learn and enjoy software. Below are links to the major sections. For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
 
-_Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, mY projects are organized in the following categories:_
+_Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, my projects are organized in the following categories:_
 
 ### Barebones ( -barebones)
 Project containing code snippets, normally executable via command line.
 
-
 #### Java
-
+Projects with a few programs that can be compiled and executed via command line.
 
 #### Python
+Projects with a few programs that are developed and validated to be executable on Python 2.7.10.
 
 #### Tensorflow
+Project with a few models running on TensorFlow version 1.2.
 
 ### Amazon Web Services ( -aws)
 Project that contains activities related to publishing applications into the Amazone Web Services platform.
@@ -29,6 +30,9 @@ Project that contains activities related to publishing applications into the Goo
 - GitHub [repository settings](https://github.com/deocampo/deocampo.github.io/settings)
 - GitHub [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - Jekyll [documentation](https://jekyllrb.com/)
+
+
+**Note** : _I know it would be more interesting to publish cod (both software and models) I worked on during my work, unfortunately those are protected and may not be released._
 
 ```markdown
 Syntax highlighted code block

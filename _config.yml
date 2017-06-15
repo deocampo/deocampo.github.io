@@ -1,1 +1,17 @@
+# Site
+title: Dondi De Ocampo
+subtitle: GitHub Page Home
+description:
+author: Dondi De Ocampo
+language:
+timezone:
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: http://deocampo.github.io
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+# Theme
 theme: jekyll-theme-minimal

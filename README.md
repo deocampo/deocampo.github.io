@@ -1,27 +1,27 @@
 
 This is a very informal, free flowing site of ideas and code that I've used to learn and enjoy software. Below are links to the major sections. For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
 
-Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, mY projects are organized in the following categories:
+_Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, mY projects are organized in the following categories:_
 
-## Barebones ( -barebones)
+### Barebones ( -barebones)
 Project containing code snippets, normally executable via command line.
 
 
-### Java
+#### Java
 
 
-### Python
+#### Python
 
-### Tensorflow
+#### Tensorflow
 
-## Amazon Web Services ( -aws)
+### Amazon Web Services ( -aws)
 Project that contains activities related to publishing applications into the Amazone Web Services platform.
 
-## Google Cloud Services ( -gcs)
+### Google Cloud Services ( -gcs)
 Project that contains activities related to publishing applications into the Googl Cloud Services platform.
 
 
-# Quick Links (for Me)
+## Quick Links (for Me)
 
 - Github [documentation](https://help.github.com/categories/github-pages-basics/) 
 - GitHub [contact support](https://github.com/contact)

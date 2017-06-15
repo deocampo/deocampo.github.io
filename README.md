@@ -24,15 +24,11 @@ Projects that contains activities related to publishing applications into the Go
 
 ## Quick Links (for Me)
 
-- Github [documentation](https://help.github.com/categories/github-pages-basics/) 
-- GitHub [contact support](https://github.com/contact)
-- GitHub [editor](https://github.com/deocampo/deocampo.github.io/edit/master/README.md)
-- GitHub [repository settings](https://github.com/deocampo/deocampo.github.io/settings)
-- GitHub [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+- Github [documentation](https://help.github.com/categories/github-pages-basics/), [contact support](https://github.com/contact), [editor](https://github.com/deocampo/deocampo.github.io/edit/master/README.md), [repository settings](https://github.com/deocampo/deocampo.github.io/settings), [flavored markdown](https://guides.github.com/features/mastering-markdown/)
 - Jekyll [documentation](https://jekyllrb.com/)
 
 
-**Note** : _I know it would be more interesting to publish cod (both software and models) I worked on during my work, unfortunately those are protected and may not be released._
+**Note** : _I know it would be more interesting to publish code (both software and models) I worked on during my work, unfortunately those are protected and may not be released._
 
 ```markdown
 Syntax highlighted code block

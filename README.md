@@ -1,20 +1,40 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/deocampo/deocampo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a very informal, free flowing site of ideas and code that I've used to learn and enjoy software. Below are links to the major sections, but here is a link to the GitHub [dashboard](https://github.com/deocampo). For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, mY projects are organized in the following categories:
 
-### Markdown
+## Barebones ( -barebones)
+Project containing code snippets, normally executable via command line.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Java
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Python
+```markdown
+Syntax highlighted code block
 
+### Tensorflow
+
+## Amazon Web Services ( -aws)
+Project that contains activities related to publishing applications into the Amazone Web Services platform.
+
+## Google Cloud Services ( -gcs)
+Project that contains activities related to publishing applications into the Googl Cloud Services platform.
+
+
+# Quick Links (for Me)
+
+- Github [documentation](https://help.github.com/categories/github-pages-basics/) 
+- GitHub [contact support](https://github.com/contact)
+- GitHub [editor](https://github.com/deocampo/deocampo.github.io/edit/master/README.md)
+- GitHub [repository settings](https://github.com/deocampo/deocampo.github.io/settings)
+- GitHub [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+- Jekyll [documentation](https://jekyllrb.com/)
+
+```markdown
+Syntax highlighted code block
 - Bulleted
 - List
 
@@ -25,13 +45,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deocampo/deocampo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -8,12 +8,9 @@ Project containing code snippets, normally executable via command line.
 
 
 ### Java
-```markdown
-Syntax highlighted code block
+
 
 ### Python
-```markdown
-Syntax highlighted code block
 
 ### Tensorflow
 

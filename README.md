@@ -1,5 +1,10 @@
 
-This is a very informal, free flowing site of ideas and code that I've used to learn and enjoy software. Below are links to the major sections. For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
+There are three areas that interest me: 
+- Scalability : the way to design and develop systems, in order for them to scale in the areas of data storage, business login/analytic processing, and presentation/visualization. 
+- Simplicity : with the plethora of technolies being developed to do the same things in different manner, it is very interesting to understand the simplest ways of achieving each use case.
+- Accessibility : with cloud computing and online software platforms, writing and deploying software and anaytics should be democritized and FREE (or at least very cheap).
+
+For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
 
 _Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, my projects are organized in the following categories:_
 

@@ -1,0 +1,20 @@
+## Quick Links (for Me)
+
+- Github [documentation](https://help.github.com/categories/github-pages-basics/), [contact support](https://github.com/contact), [editor](https://github.com/deocampo/deocampo.github.io/edit/master/README.md), [repository settings](https://github.com/deocampo/deocampo.github.io/settings), [flavored markdown](https://guides.github.com/features/mastering-markdown/)
+- Jekyll [documentation](https://jekyllrb.com/)
+
+
+**Note** : _I know it would be more interesting to publish code (both software and models) I worked on during my work, unfortunately those are protected and may not be released._
+
+```markdown
+Syntax highlighted code block
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```

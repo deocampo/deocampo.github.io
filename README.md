@@ -2,7 +2,7 @@
 There are three areas that interest me: 
 - Scalability : the way to design and develop systems, in order for them to scale in the areas of data storage, business login/analytic processing, and presentation/visualization. 
 - Simplicity : with the plethora of technolies being developed to do the same things in different manner, it is very interesting to understand the simplest ways of achieving each use case.
-- Accessibility : with cloud computing and online software platforms, writing and deploying software and anaytics should be democritized and FREE (or at least very cheap).
+- Accessibility : with cloud computing and online code repositories, writing and deploying software and anaytics should be democritized and FREE (or at least very cheap).
 
 For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
 

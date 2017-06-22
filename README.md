@@ -21,6 +21,6 @@ Projects that contains activities related to publishing applications into the Am
 ### Google Cloud Services (gcs-*)
 Projects that contains activities related to publishing applications into the Googl Cloud Services platform.
 
-I'd really love to do more, but just don't have the time.
+I'd really love to do more, if I only had the time.
 
 **Note** : _I know it would be more interesting to publish code (both software and models) I worked on during my work, unfortunately those are protected and may not be released._

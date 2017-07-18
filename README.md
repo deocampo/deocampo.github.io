@@ -23,4 +23,4 @@ Projects that contains activities related to publishing applications into the Go
 
 I'd really love to do more, if I only had the time.
 
-**Note** : _I know it would be more interesting to publish code (both software and models) from my work my actual work, unfortunately those are protected and may not be released._
+**Note** : _I know it would be more interesting to publish code (both software and models) from my actual work, unfortunately those are protected and may not be released._

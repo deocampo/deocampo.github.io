@@ -6,8 +6,6 @@ There are three areas that interest me:
 
 For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
 
-_Aside from the 'deocampo.github.io' project that contains the source code for these introductory pages, my projects are organized in the following categories:_
-
 ### Barebones Software Development (bsd-*)
 Projects containing code snippets, normally executable via command line.
 
@@ -20,6 +18,8 @@ Projects that contains activities related to publishing applications into the Am
 
 ### Google Cloud Services (gcs-*)
 Projects that contains activities related to publishing applications into the Googl Cloud Services platform.
+
+_Of course the 'deocampo.github.io' project that contains the source code for these introductory pages, my projects are organized in the following categories:_
 
 I'd really love to do more, if I only had the time.
 

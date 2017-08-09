@@ -9,7 +9,7 @@ There are three areas that interest me:
 _My projects are organized in the following categories:_
 
 ### Barebones Software Development (bsd-*)
-Projects containing code snippets, normally executable via command line : Java Projects with a few programs that can be compiled and executed via command line. Python projects with a few programs that are developed and validated to be executable on Python 2.7.10. Tensorflow projects with a few models running on TensorFlow version 1.2.
+Projects containing code snippets, normally executable via command line : Java Projects with a few programs on foundational concepts using Java SE 8. Python projects with a few programs that are developed and validated to be executable on Python 2.7.10. Tensorflow projects with a few models running on TensorFlow version 1.2.
 
 ### Amazon Web Services (aws-*)
 Projects that contains activities related to publishing applications into the Amazone Web Services platform.

@@ -4,7 +4,7 @@ There are three areas that interest me:
 - Simplicity : with the plethora of technologies being developed to do the same things in different manner, it is very interesting to understand the simplest ways of achieving each use case.
 - Ubiquity : with cloud computing and online code repositories, writing and deploying software and anaytics should be acessible to everyone.
 
-For a more "professional" understanding of my background, please visit my [LinkedIn Profile](https://www.linkedin.com/in/deocampo/).
+[LinkedIn Profile](https://www.linkedin.com/in/deocampo/) for a more "professional" understanding of my background.
 
 _My projects are organized in the following categories:_
 

@@ -22,6 +22,4 @@ Projects that contains links to Docker Cloud based images for different open sou
 
 _The 'deocampo.github.io' project that contains the source code for these introductory pages._
 
-I'd really love to do more, if I only had the time.
-
 **Note** : _I know it would be more interesting to publish code (both software and models) from my actual work, unfortunately those are protected and may not be released._

@@ -17,7 +17,7 @@ Projects that contains activities related to publishing applications into the Am
 Projects that contains activities related to publishing applications into the Googl Cloud Services platform.
 
 ### Docker Images (dcr-*)
-Projects that contains links to Docker Cloud based images for different open sources technologies.
+Projects that contains links to my [Docker Cloud](https://store.docker.com/profiles/deocampo) based images for different open sources technologies.
 
 _The 'deocampo.github.io' project that contains the source code for this page._
 

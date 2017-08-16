@@ -1,4 +1,3 @@
-
 There are three areas that interest me: 
 - Scalability : the way to design and develop systems in order for them to scale in the areas of data storage, business login/analytic processing, and presentation/visualization. 
 - Simplicity : with the plethora of technologies being developed to do the same things in different ways, there is an art to understanding the simplest ways of achieving each use case.

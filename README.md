@@ -1,7 +1,7 @@
 Primary "ilities" that interest me: 
 - Scalability : the way to design and develop systems in order for them to scale in the areas of data storage, business login/analytic processing, and presentation/visualization. 
-- Simplicity : with the plethora of technologies being developed to do the same things in different ways, there is an art to understanding the simplest ways of achieving each use case.
-- Ubiquity : with cloud computing and online code repositories, writing and deploying software and anaytics should be acessible to everyone.
+- Simplicity (strictly not an ility) : with the plethora of technologies being developed to do the same things in different ways, there is an art to understanding the simplest ways of achieving each use case.
+- Ubiquity (strictly not an ility) : with cloud computing and online code repositories, writing and deploying software and anaytics should be acessible to everyone.
 
 Please visit my [LinkedIn profile](https://www.linkedin.com/in/deocampo/) for a more "professional" understanding of my background.
 

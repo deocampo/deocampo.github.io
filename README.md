@@ -19,6 +19,6 @@ Projects that contains activities related to publishing applications into the Go
 ### Docker Images (dcr-*)
 Projects that contains links to my [Docker Cloud](https://store.docker.com/profiles/deocampo) based images for different open sources technologies.
 
-_The 'deocampo.github.io' project that contains the source code for this page._
+_The 'deocampo.github.io' project contains the source code for this page._
 
-**Note** : _I know it would be more interesting to publish code (both software and models) from my actual work, unfortunately those are protected and may not be released._
+**Note** : _It would be more interesting to publish code (both software and models) from my actual work, unfortunately those are protected and may not be released._
